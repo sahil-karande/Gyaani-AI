@@ -1,4 +1,4 @@
-# 🧠 Gyani – My Personal Voice Assistant Web Project
+## 🧠 Gyani – My Personal Voice Assistant Web Project
 
 **Gyani** is a voice-based assistant web application that I built from scratch as a personal project. It was designed to understand spoken commands, fetch information from the web, and respond both visually and through speech. The main goal behind Gyani was to explore the integration of speech recognition, APIs, and dynamic web UI in a simple but powerful assistant.
 
@@ -41,13 +41,13 @@ Open index.html in any modern browser (Chrome recommended).
 
 ✅ Make sure your browser supports SpeechRecognition and SpeechSynthesis APIs.
 
-🧪 Screenshots
+## 🧪 Screenshots
 
 <img width="1610" height="923" alt="gyaani 1" src="https://github.com/user-attachments/assets/a723f944-3113-4154-ae67-b452027e161d" />
 <img width="666" height="636" alt="gyaani 2" src="https://github.com/user-attachments/assets/4492c880-b2fa-4482-b3f6-fdb8746325e5" />
 
 >
-🚀 Future Improvements
+## 🚀 Future Improvements
 Add support for more complex queries
 
 Include weather, news, or other APIs for expanded use
@@ -58,14 +58,14 @@ Add voice command feedback animations
 
 Deploy on a public domain (like GitHub Pages or Vercel)
 
-🙌 Acknowledgments
+## 🙌 Acknowledgments
 Web Speech API (SpeechRecognition and SpeechSynthesis)
 
 Wikipedia REST API
 
 All online documentation and tutorials that helped me learn
 
-📫 Contact
+## 📫 Contact
 If you liked this project or have suggestions, feel free to reach out!
 
 Linked In :- https://www.linkedin.com/in/sahil-karande-5272652a6/
