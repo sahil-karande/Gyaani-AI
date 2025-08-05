@@ -72,7 +72,6 @@ Linked In :- https://www.linkedin.com/in/sahil-karande-5272652a6/
 
 Github :- https://github.com/sahil-karande
 
-Created by Sahil Karande
 
 
 
