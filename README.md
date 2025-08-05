@@ -41,8 +41,8 @@ Open index.html in any modern browser (Chrome recommended).
 
 ✅ Make sure your browser supports SpeechRecognition and SpeechSynthesis APIs.
 
-🧪 Demo / Screenshots
-Coming soon...
+🧪 Screenshots
+
 <img width="1610" height="923" alt="gyaani 1" src="https://github.com/user-attachments/assets/a723f944-3113-4154-ae67-b452027e161d" />
 <img width="666" height="636" alt="gyaani 2" src="https://github.com/user-attachments/assets/4492c880-b2fa-4482-b3f6-fdb8746325e5" />
 
@@ -67,7 +67,9 @@ All online documentation and tutorials that helped me learn
 
 📫 Contact
 If you liked this project or have suggestions, feel free to reach out!
-Linked In :- linkedin.com/in/sahil-karande-5272652a6
+
+Linked In :- https://www.linkedin.com/in/sahil-karande-5272652a6/
+
 Github :- https://github.com/sahil-karande
 
 Created by Sahil Karande
