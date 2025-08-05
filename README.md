@@ -74,10 +74,7 @@ Github :- https://github.com/sahil-karande
 
 Created by Sahil Karande
 
-yaml
-Copy
-Edit
+
 
 ---
 
-✅ You're all set! Just paste this into your `README.md` file in the root of your GitHub project, and it will show up beautifully. Let me know if you want help adding the **GitHub Page
